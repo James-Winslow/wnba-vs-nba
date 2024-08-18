@@ -1,4 +1,5 @@
 # WNBA vs. NBA Shooting Accuracy Analysis
+![WNBA vs NBA](images/header.png)
 
 ## Project Overview
 This project provides an in-depth comparison of shooting accuracy between WNBA and NBA players, focusing on three key metrics: Field Goal Percentage (FG%), Free Throw Percentage (FT%), and Three-Point Percentage (3P%). The analysis involves scraping, cleaning, and statistically analyzing the data to uncover meaningful insights. This project demonstrates a wide range of skills that are crucial for data-driven decision-making in sports analytics and beyond.
