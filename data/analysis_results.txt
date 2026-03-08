@@ -1,0 +1,28 @@
+WNBA vs NBA Shooting Accuracy Analysis — 2022-23 Season
+NBA n=470  |  WNBA n=141
+Minimum games played threshold: 10
+============================================================
+
+FG%
+  NBA:  mean=0.471  std=0.084
+  WNBA: mean=0.429  std=0.086
+  Normality (Shapiro-Wilk): NBA p=7.66e-12  WNBA p=1.22e-04
+  Variance equality (Levene): p=7.19e-01  equal
+  Test: Mann-Whitney U  stat=42676.500  p=2.10e-07
+  Cohen's d: 0.489 (small effect)
+
+FT%
+  NBA:  mean=0.758  std=0.124
+  WNBA: mean=0.767  std=0.139
+  Normality (Shapiro-Wilk): NBA p=9.69e-13  WNBA p=1.20e-09
+  Variance equality (Levene): p=5.74e-01  equal
+  Test: Mann-Whitney U  stat=29653.500  p=9.53e-02
+  Cohen's d: -0.074 (negligible effect)
+
+3P%
+  NBA:  mean=0.328  std=0.114
+  WNBA: mean=0.294  std=0.127
+  Normality (Shapiro-Wilk): NBA p=7.98e-23  WNBA p=1.46e-08
+  Variance equality (Levene): p=2.11e-02  unequal
+  Test: Mann-Whitney U  stat=35400.500  p=7.41e-03
+  Cohen's d: 0.284 (small effect)
