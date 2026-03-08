@@ -165,7 +165,6 @@ wnba-vs-nba/
 │   ├── header.png
 │   ├── shooting_distributions.png
 │   └── shooting_boxplots.png
-├── notebooks/                 # Original exploratory notebooks
 ├── scripts/
 │   └── build_analysis.py     # Full reproducible pipeline
 └── README.md
